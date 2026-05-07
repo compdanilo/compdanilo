@@ -8,6 +8,15 @@
   <img src="https://img.shields.io/badge/PyTorch-Informational?style=flat&logo=pytorch&logoColor=white" />
 </p>
 
+<p align="left">
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-Informational?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-Informational?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## Sobre
@@ -79,4 +88,3 @@ Notas e exercícios de preparação para o POSCOMP.
 # Status Atual
 
 QA Assistant • Research Student • Construindo expertise de longo prazo em IA e Visão Computacional.
-
