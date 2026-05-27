@@ -2,7 +2,7 @@
 
 Estudante de tecnologia, organizando meus estudos e projetos por aqui.
 
-Tenho interesse em desenvolvimento, qualidade de software, testes, análise de dados e pesquisa aplicada. Estou usando o GitHub para praticar, documentar o que estou aprendendo e construir um portfólio aos poucos.
+Tenho interesse em desenvolvimento, qualidade de software, testes, análise de dados e pesquisa aplicada.
 
 ## Sobre mim
 
