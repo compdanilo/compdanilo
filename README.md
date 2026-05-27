@@ -58,4 +58,6 @@ Usar este espaço para acompanhar minha evolução, registrar meus estudos e des
 
 ## Contato
 
-GitHub: [compdanilo](https://github.com/compdanilo)
+- GitHub: [compdanilo](https://github.com/compdanilo)
+- LinkedIn: [Danilo Martins](https://www.linkedin.com/in/danilocomp/)
+- E-mail: ddanilom1@gmail.com
