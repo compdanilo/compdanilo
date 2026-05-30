@@ -1,9 +1,9 @@
-# Olá, eu sou Danilo Martins 👋
+
 
 ![GitHub followers](https://img.shields.io/github/followers/compdanilo?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/compdanilo?style=social)
 
-Sou estudante de **Sistemas de Informação** no IFG, com interesse em **Quality Assurance**, **dados**, **visão computacional** e **pesquisa aplicada**.
+Sou estudante de **Sistemas de Informação** no IFG-Goiânia, com interesse em **Quality Assurance**, **dados**, **visão computacional** e **pesquisa aplicada**.
 
 Atualmente venho construindo projetos voltados para prática técnica, organização de estudos e aplicação de tecnologia em problemas reais do cotidiano.
 
