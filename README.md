@@ -1,109 +1,126 @@
+Estudante de Sistemas de Informação no IFG, com experiência em QA, documentação de sistemas e testes em aplicações web.
 
+Tenho interesse em tecnologia aplicada a problemas reais, especialmente em automação de processos, sistemas internos, dados, visão computacional e soluções que melhorem fluxos operacionais.
 
-![GitHub followers](https://img.shields.io/github/followers/compdanilo?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/compdanilo?style=social)
-
-Sou estudante de **Sistemas de Informação** no IFG-Goiânia, com interesse em **Quality Assurance**, **dados**, **visão computacional** e **pesquisa aplicada**.
-
-Atualmente venho construindo projetos voltados para prática técnica, organização de estudos e aplicação de tecnologia em problemas reais do cotidiano.
-
----
-
-## Sobre mim
-
-- 🎓 Graduando em Sistemas de Informação
-- 🧪 Atuação e estudos em QA / Testes de Software
-- 📊 Interesse em análise de dados e automação
-- 👁️ Interesse em visão computacional e pesquisa aplicada
-- 🏙️ Interesse em tecnologia aplicada a problemas urbanos e cotidianos
+Atualmente, venho desenvolvendo projetos práticos voltados à organização de processos, validação de sistemas, automação e uso de tecnologia para apoiar atividades do cotidiano.
 
 ---
 
 ## Áreas de interesse
 
-![QA](https://img.shields.io/badge/QA-Quality%20Assurance-blue)
-![Testes](https://img.shields.io/badge/Testes-Manuais%20e%20Automatizados-green)
-![Dados](https://img.shields.io/badge/Dados-Análise%20e%20Validação-orange)
-![Pesquisa](https://img.shields.io/badge/Pesquisa-Aplicada-purple)
-![Visão Computacional](https://img.shields.io/badge/Visão%20Computacional-OpenCV-lightgrey)
-
 - Quality Assurance
 - Testes manuais e automatizados
-- Selenium, PyTest e automação de testes
-- SQL e validação de dados
-- Visão computacional
-- Análise de imagens
-- Dados públicos
+- Documentação funcional de sistemas
+- Mapeamento de fluxos
 - Automação de processos
-- Pesquisa aplicada em tecnologia
-
----
-
-## Projetos em desenvolvimento
-
-### `notebook-qa`
-
-Repositório de estudos e práticas em **Quality Assurance**.
-
-Inclui anotações, modelos de casos de teste, bug reports, automação com Selenium e organização de estudos relacionados à área de testes.
-
----
-
-### `contabot`
-
-Projeto de automação voltado para apoio a profissionais autônomos e pequenos negócios.
-
-A ideia do ContaBot é explorar formas simples de automatizar tarefas relacionadas à organização financeira, atendimento e controle básico de informações, usando tecnologia de forma prática e acessível.
-
----
-
-### `analise-visual-mangas-terror`
-
-Projeto exploratório que utiliza conceitos de visão computacional e semiótica para analisar padrões visuais em mangás de terror.
-
-A proposta envolve extração de características visuais, organização de painéis e discussão metodológica sobre imagem, signo e representação.
+- Sistemas web
+- Dados e pesquisa aplicada
+- Visão computacional
+- Tecnologia aplicada a problemas urbanos e operacionais
 
 ---
 
 ## Tecnologias e ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-![PlantUML](https://img.shields.io/badge/PlantUML-FABD14?logo=uml&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+### MercadoGO
+
+Sistema web inspirado em ERP/PDV para supermercados, com foco em controle operacional, produtos, estoque, caixa e vendas.
+
+O projeto busca simular fluxos reais de operação de um mercado, explorando organização de módulos, controle interno, usabilidade e execução local ou via Docker.
+
+**Principais pontos:**
+
+- Estruturação de fluxo de sistema
+- Controle de produtos, estoque e vendas
+- Organização de módulos operacionais
+- Aplicação prática de tecnologia em gestão
+
+---
+
+### Contabot
+
+Projeto voltado à automação de rotinas administrativas e contábeis.
+
+A proposta é explorar formas de reduzir tarefas repetitivas, organizar processos internos e aplicar tecnologia em atividades práticas do cotidiano administrativo.
+
+**Principais pontos:**
+
+- Automação de processos
+- Organização de fluxos administrativos
+- Apoio a rotinas contábeis
+- Redução de trabalho manual
+
+---
+
+### Notebook QA
+
+Repositório de estudos e práticas em Quality Assurance.
+
+Inclui anotações, modelos, casos de teste, bug reports e práticas relacionadas a testes manuais e automatizados.
+
+**Principais pontos:**
+
+- Casos de teste
+- Bug reports
+- Testes manuais
+- Selenium WebDriver
+- PyTest
+- Documentação de QA
+
+---
+
+### Análise Visual de Mangás de Terror
+
+Projeto exploratório que une visão computacional, semiótica e análise visual.
+
+A proposta é investigar padrões visuais em mangás de terror, utilizando conceitos de representação, signos, textura, contraste e composição visual.
+
+**Principais pontos:**
+
+- Visão computacional
+- OpenCV
+- Análise de imagens
+- Pesquisa aplicada
+- Semiótica visual
 
 ---
 
 ## Atualmente estudando
 
-- Automação de testes com Python
-- Testes funcionais e documentação de QA
-- Visão computacional aplicada
-- Estruturação de projetos de pesquisa
-- Análise de dados públicos
-- Inglês técnico
-- Automação de processos
+- Python aplicado a automação e dados
+- Selenium para testes automatizados
+- Documentação funcional de sistemas
+- APIs e testes com Postman
+- Docker para execução local de projetos
+- Fundamentos de visão computacional
+- Metodologia de pesquisa aplicada à tecnologia
 
 ---
 
-## Objetivo
+## Objetivo profissional
 
-Construir uma base sólida em tecnologia, combinando prática de desenvolvimento, testes de software, análise de dados e pesquisa aplicada.
+Atuar com tecnologia aplicada a problemas reais, contribuindo com testes, documentação, automação, análise de sistemas e melhoria de processos.
 
-Meu foco é desenvolver projetos que sejam simples o suficiente para sair do papel, mas bem estruturados o bastante para demonstrar método, evolução técnica e capacidade de resolver problemas reais.
+Busco desenvolver uma trajetória que una prática técnica, organização de sistemas e pesquisa aplicada, especialmente em áreas como QA, dados, automação e visão computacional.
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--linkedin-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilocomp)
-[![E-mail](https://img.shields.io/badge/E--mail-ddanilom1%40gmail.com-red?logo=gmail&logoColor=white)](mailto:ddanilom1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-compdanilo-181717?logo=github&logoColor=white)](https://github.com/compdanilo)
+- GitHub: [github.com/compdanilo](https://github.com/compdanilo)
+- LinkedIn: [linkedin.com/in/danilo](https://linkedin.com/in/danilocomp)
+- E-mail: ddanilom1@gmail.com
