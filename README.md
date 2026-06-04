@@ -13,13 +13,13 @@ Estudante de Sistemas de Informação, com experiência em QA, documentação de
 
 ## Projetos
 
-### Contabot
+### [Contabot](https://github.com/compdanilo/contabot)
 Projeto voltado à automação e apoio a rotinas contábeis.
 
-### MercadoGO
+### [MercadoGO](https://github.com/compdanilo/mercado-go)
 Sistema web inspirado em fluxos de supermercado/PDV, com foco em cadastro, gestão e operação local.
 
-### Notebook QA
+### [Notebook QA](https://github.com/compdanilo/notebook-qa)
 Repositório para organizar estudos, práticas, modelos de testes, bug reports e documentação voltada à área de QA.
 
 ## Tecnologias e ferramentas
