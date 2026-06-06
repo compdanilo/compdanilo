@@ -41,5 +41,5 @@ Construir um portfólio técnico com projetos práticos, bem documentados e cone
 ## Contato
 
 - GitHub: [@compdanilo](https://github.com/compdanilo)
-- LinkedIn: adicione seu link aqui
+- LinkedIn: danilocomp
 - E-mail: ddanilom1@gmail.com
