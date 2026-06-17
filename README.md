@@ -1,5 +1,3 @@
-# Olá, eu sou o Danilo 👋
-
 Sou estudante de Sistemas de Informação, com interesse em qualidade de software, dados, automação e pesquisa aplicada em computação.
 
 Atualmente, desenvolvo projetos voltados para testes de software, análise de dados, sistemas e documentação técnica. Meu foco é construir projetos com aplicação prática no cotidiano, conectando tecnologia, estudo e resolução de problemas reais.
