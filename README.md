@@ -22,10 +22,3 @@ Acessibilidade Digital    · WCAG
 Bioinformática
 Inteligência Artificial   · Deep Learning
 ```
-
-### Pesquisa
-
-```text
-Deep Learning · Bioinformática · Saúde
-Visão Computacional · Lesões Cutâneas · Fototipos
-```
